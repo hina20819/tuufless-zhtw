@@ -242,7 +242,7 @@ Omega會瞄準 隨機 3名非坦玩家造成1次直線傷害，並在頭上會�
 <table>
   <tr>
     <td width="50%">
-      <p><b>16.</b> 雙坦在北集合，<b>離開</b> Omega的目標圈並打開無敵。</p>
+      <p><b>16.</b> 雙坦在北集合，<b>離開</b> Omega的目標圈並使用無敵。</p>
       <p>這將南邊有更大的空間可以分散，其餘玩家 <b>站進</b> 目標圈。 
       </p>
       <p>3名非坦玩家將在第1輪單點波動炮中被選中。</p>
@@ -301,7 +301,7 @@ Omega會瞄準 隨機 3名非坦玩家造成1次直線傷害，並在頭上會�
       </ul>
       <p>另外，追著火分攤有以下缺點：</p>
       <ul>
-        <li>導彈的玩家有可能被 <em>3名</em> 玩家的預兆擋住回不去小組。</li>
+        <li>導彈的玩家有可能被 <b>3名</b> 玩家的預兆擋住回不去小組。</li>
         <li>發生問題時因為有3名玩家在前面放預兆除錯上也變得困難。</li>
       </ul>
     </td>
@@ -327,8 +327,8 @@ Omega會瞄準 隨機 3名非坦玩家造成1次直線傷害，並在頭上會�
       <p>如果上一個玩家是走黃色路徑下一個玩家走綠色路徑的話，就會發生走綠色路徑的玩家撞在黃色路徑玩家的預兆上，因為當綠色路徑玩家出去的時候黃色路徑玩家的預兆還沒有消失。</p>
       <p>Haru Glory的隊伍後來將路徑從黃色路徑調整成了綠色路徑。</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement_fast.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator_movement.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator_movement_fast.jpg"></td>
   </tr>
 </table>
 </details>
