@@ -74,7 +74,7 @@ HP的懲罰會在兩輪之後消失（治療需要照顧拿到3和4debuffs的玩
       </ul>
       <p>上一輪處理完畢後3號玩家的HP debuff消失，需要治療才能夠吃下塔的傷害。</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_05.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/program_loop_05.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -85,7 +85,7 @@ HP的懲罰會在兩輪之後消失（治療需要照顧拿到3和4debuffs的玩
       </ul>
       <p>上一輪處理完畢後4號玩家的HP debuff消失，需要治療才能夠吃下塔的傷害。</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/program_loop_06.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/program_loop_06.jpg "></td>
   </tr>
 </table>
 
@@ -129,10 +129,10 @@ HP的懲罰會在兩輪之後消失（治療需要照顧拿到3和4debuffs的玩
 
 <table>
   <tr>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_02a.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_02b.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_02c.jpg"></td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_02d.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator_02a.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator_02a.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator_02c.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator_02d.jpg"></td>
   </tr>
 </table>
 
@@ -152,12 +152,12 @@ HP的懲罰會在兩輪之後消失（治療需要照顧拿到3和4debuffs的玩
         <li>重新回到人群，在判定後還會有多1個預兆，也可以引導完後再回人群。</li>
       </ol>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_movement.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator_movement.jpg"></td>
   </tr>
 </table>
 
 合在一起後看起來像這樣:
-<img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator.gif">
+<img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator.gif">
 *(來源: Aqua Glacies)*
 
 ### 分攤波動炮 和 單點導彈
@@ -171,7 +171,7 @@ HP的懲罰會在兩輪之後消失（治療需要照顧拿到3和4debuffs的玩
         <li><b>1號:</b> 靠場中等待</li>
       </ul>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_03.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator_03.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -179,7 +179,7 @@ HP的懲罰會在兩輪之後消失（治療需要照顧拿到3和4debuffs的玩
       <p>1號追著最遠的披薩移動。</p>
       <p>其餘的玩家調整位置讓預兆正好落在轉過來的披薩上。</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/pantokrator_04.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/pantokrator_04.jpg"></td>
   </tr>
   <tr>
     <td>
@@ -247,21 +247,21 @@ Omega會瞄準 隨機 3名非坦玩家造成1次直線傷害，並在頭上會�
       </p>
       <p>3名非坦玩家將在第1輪單點波動炮中被選中。</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_01.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/wave_cannons_01.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>17.</b> 第1輪波動判定</p>
       <p>剩下3名玩家被標記為第2輪波動炮對象。</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_02.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/wave_cannons_02.jpg"></td>
   </tr>
   <tr>
     <td>
       <p><b>17.</b> 第2輪波動炮判定</p>
       <p>判定後， Omega會讀條「原子射線」作為本階段狂暴。</p>
     </td>
-    <td><img src="{{site.baseurl}}/assets/images/ultimates/top/01/wave_cannons_03.jpg"></td>
+    <td><img src="https://tuufless.github.io/FFXIV-Elemental-Raid-Macros/assets/images/ultimates/top/01/wave_cannons_03.jpg"></td>
   </tr>
 </table>
 
